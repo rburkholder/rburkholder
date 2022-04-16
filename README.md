@@ -1,4 +1,8 @@
-### Hi there 👋
+### Raymond Burkholder
+
+* Software developer having a fondness for the C++ and Python languages.  
+* Favorite databases include Cassandra and PostgreSQL.  
+* Subject matter areas of interest include Financial Markets (see TradeFrame) and Network Management.
 
 <!--
 **rburkholder/rburkholder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
