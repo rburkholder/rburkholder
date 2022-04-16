@@ -1,7 +1,7 @@
 ### Raymond Burkholder
 
 * Software developer having a fondness for the C++ and Python languages.  
-* Favorite databases include Cassandra and PostgreSQL.  
+* Favorite databases include Cassandra, PostgreSQL & SQLite.  
 * Subject matter areas of interest include Financial Markets (see TradeFrame) and Network Management.
 
 <!--
