@@ -2,7 +2,10 @@
 
 * Software developer having a fondness for the C++ and Python languages.  
 * Favorite databases include Cassandra, PostgreSQL & SQLite.  
-* Subject matter areas of interest include Financial Markets (see TradeFrame) and Network Management.
+* Subject matter areas of interest include:
+  * Financial Markets (see TradeFrame)
+  * Network Management
+  * Home Automation (see Apparition)
 
 <!--
 **rburkholder/rburkholder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
