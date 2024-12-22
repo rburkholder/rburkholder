@@ -2,7 +2,7 @@
 
 * Software developer having a fondness for the C++ and Python languages.  
 * Favorite databases include Cassandra, PostgreSQL & SQLite.
-* Favorite Automation Toolsets:  Ansible, SaltStack, GitLab 
+* Favorite Automation Toolsets:  Ansible, Terraform, SaltStack
 * Subject matter areas of interest include:
   * Financial Markets (see TradeFrame)
   * Network Management
