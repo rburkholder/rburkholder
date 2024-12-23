@@ -1,6 +1,6 @@
 ### Raymond Burkholder
 
-* Software developer having a fondness for the C++ and Python languages.  
+* Software developer having a fondness for the C++, Python and embedded Lua languages.  
 * Favorite databases include Cassandra, PostgreSQL & SQLite.
 * Favorite Automation Toolsets:  Ansible, Terraform, SaltStack
 * Subject matter areas of interest include:
